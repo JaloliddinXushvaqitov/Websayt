@@ -1,0 +1,25 @@
+#card1:hover #header{
+    background-color: #343A40;
+}
+#card1:hover{
+    transform: scale(1.1);
+    box-shadow: 0px 0px 10px black;
+    
+}
+#card1:hover .rot{
+    opacity: 1;
+    background-color: white;
+}
+#card1:hover .bi{
+    transform: scale(1.2);
+    color: white;
+}
+#card1:hover .card-header h5{
+    color: white;
+}
+#card1:hover .card-header.a2{
+    background-color: white;
+}
+.rot{
+opacity: 0;
+}
